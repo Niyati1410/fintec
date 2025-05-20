@@ -1,9 +1,9 @@
 [submodule "Backend"]
 	path = Backend
-	url = https://github.com/example-user/example-repo.git
+	url = https://github.com/Niyati1410/fintec.git
 [submodule "Frontend"]
 	path = Frontend
-	url = https://github.com/example-user/example-repo.git
+	url = https://github.com/Niyati1410/fintec.git
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Niyati1410/backend.git
