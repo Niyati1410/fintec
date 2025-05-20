@@ -1,0 +1,12 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/Niyati1410/fintec.git
+[submodule "Frontend"]
+	path = Frontend
+	url = https://github.com/Niyati1410/fintec.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Niyati1410/backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Niyati1410/frontend.git

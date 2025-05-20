@@ -1,0 +1,5 @@
+### Contains requirements for the API
+Flask
+python-dotenv
+firebase-admin
+flask-cors
